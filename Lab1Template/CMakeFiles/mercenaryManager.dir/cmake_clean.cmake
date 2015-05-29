@@ -1,0 +1,40 @@
+FILE(REMOVE_RECURSE
+  "CMakeFiles/mercenaryManager.dir/source/main.cpp.o"
+  "CMakeFiles/mercenaryManager.dir/source/GLSL.cpp.o"
+  "CMakeFiles/mercenaryManager.dir/source/tiny_obj_loader.cc.o"
+  "CMakeFiles/mercenaryManager.dir/source/RenderingHelper.cpp.o"
+  "CMakeFiles/mercenaryManager.dir/source/Camera.cpp.o"
+  "CMakeFiles/mercenaryManager.dir/source/MatrixStack.cpp.o"
+  "CMakeFiles/mercenaryManager.dir/source/Shape.cpp.o"
+  "CMakeFiles/mercenaryManager.dir/source/Terrain.cpp.o"
+  "CMakeFiles/mercenaryManager.dir/source/TextureLoader.cpp.o"
+  "CMakeFiles/mercenaryManager.dir/source/tavern.cpp.o"
+  "CMakeFiles/mercenaryManager.dir/source/obj3d.cpp.o"
+  "CMakeFiles/mercenaryManager.dir/source/obj3dcontainer.cpp.o"
+  "CMakeFiles/mercenaryManager.dir/source/Wagon.cpp.o"
+  "CMakeFiles/mercenaryManager.dir/source/manager.cpp.o"
+  "CMakeFiles/mercenaryManager.dir/source/mercenary.cpp.o"
+  "CMakeFiles/mercenaryManager.dir/source/TavernTerrain.cpp.o"
+  "CMakeFiles/mercenaryManager.dir/source/bounding.cpp.o"
+  "CMakeFiles/mercenaryManager.dir/source/Materials.cpp.o"
+  "CMakeFiles/mercenaryManager.dir/source/FrustumCull.cpp.o"
+  "CMakeFiles/mercenaryManager.dir/source/hud.cpp.o"
+  "CMakeFiles/mercenaryManager.dir/source/splineCurve.cpp.o"
+  "CMakeFiles/mercenaryManager.dir/source/TerrainEvent.cpp.o"
+  "CMakeFiles/mercenaryManager.dir/source/SoundPlayer.cpp.o"
+  "CMakeFiles/mercenaryManager.dir/source/text2D.cpp.o"
+  "CMakeFiles/mercenaryManager.dir/source/texture.cpp.o"
+  "CMakeFiles/mercenaryManager.dir/source/shader.cpp.o"
+  "CMakeFiles/mercenaryManager.dir/source/menu.cpp.o"
+  "CMakeFiles/mercenaryManager.dir/source/Skybox.cpp.o"
+  "CMakeFiles/mercenaryManager.dir/source/Tree.cpp.o"
+  "CMakeFiles/mercenaryManager.dir/source/GBuffer.cpp.o"
+  "CMakeFiles/mercenaryManager.dir/dependencies/glad/src/glad.c.o"
+  "mercenaryManager.pdb"
+  "mercenaryManager"
+)
+
+# Per-language clean rules from dependency scanning.
+FOREACH(lang C CXX)
+  INCLUDE(CMakeFiles/mercenaryManager.dir/cmake_clean_${lang}.cmake OPTIONAL)
+ENDFOREACH(lang)

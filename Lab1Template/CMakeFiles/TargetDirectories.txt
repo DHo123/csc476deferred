@@ -1,0 +1,2 @@
+/home/derrick-ubuntu/Documents/cpe476/csc_476_adventure_manager/Lab1Template/dependencies/glfw/src/CMakeFiles/glfw.dir
+/home/derrick-ubuntu/Documents/cpe476/csc_476_adventure_manager/Lab1Template/CMakeFiles/mercenaryManager.dir

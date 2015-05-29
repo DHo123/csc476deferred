@@ -1,0 +1,69 @@
+# List all .h files here
+set(HEADERS
+   GLIncludes.h
+   GLSL.h
+   tiny_obj_loader.h
+   RenderingHelper.h
+   Camera.h
+   MatrixStack.h
+   #Program.h
+   Shape.h
+   Terrain.h
+   TextureLoader.h
+   tavern.h
+   obj3d.h
+   obj3dcontainer.h
+   Wagon.h
+   manager.h
+   mercenary.h
+   TavernTerrain.h
+   bounding.h
+   Materials.h
+   FrustumCull.h
+   hud.h
+   splineCurve.h
+   TerrainEvent.h
+   SoundPlayer.h
+   text2D.hpp
+   texture.hpp
+   shader.hpp
+   menu.h
+   Skybox.h
+   Tree.h
+   GBuffer.h
+)
+
+# List all .c / .cpp files here
+set(SOURCES
+   main.cpp
+   GLSL.cpp
+   tiny_obj_loader.cc
+   RenderingHelper.cpp
+   Camera.cpp
+   MatrixStack.cpp
+   #Program.cpp
+   Shape.cpp
+   Terrain.cpp
+   TextureLoader.cpp
+   tavern.cpp
+   obj3d.cpp
+   obj3dcontainer.cpp
+   Wagon.cpp
+   manager.cpp
+   mercenary.cpp
+   TavernTerrain.cpp
+   bounding.cpp
+   Materials.cpp
+   FrustumCull.cpp
+   hud.cpp
+   splineCurve.cpp
+   TerrainEvent.cpp
+   SoundPlayer.cpp
+   text2D.cpp
+   texture.cpp
+   shader.cpp
+   menu.cpp
+   Skybox.cpp
+   Tree.cpp
+   GBuffer.cpp
+)
